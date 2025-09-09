@@ -25,8 +25,6 @@ Este projeto implementa uma hierarquia de classes para gerenciar diferentes tipo
 ![Diagrama de Classes](./src/img/diagrama-cinema.drawio.png)
 
 
-## 🚀 Tecnologias
-
 - Java 17+
 - UML (para modelagem)
 
@@ -44,3 +42,7 @@ public class Main {
         System.out.println("Família: R$ " + ingressoFamilia.getValorReal());
     }
 }
+```
+
+---
+
